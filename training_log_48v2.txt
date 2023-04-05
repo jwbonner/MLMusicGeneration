@@ -1,0 +1,159 @@
+/Users/jonah/Documents/miniconda/lib/python3.9/site-packages/requests/__init__.py:102: RequestsDependencyWarning: urllib3 (1.26.9) or chardet (5.1.0)/charset_normalizer (2.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({})/charset_normalizer ({}) doesn't match a supported "
+
+Reading MIDI files
+40 files
+/Users/jonah/Documents/miniconda/lib/python3.9/site-packages/requests/__init__.py:102: RequestsDependencyWarning: urllib3 (1.26.9) or chardet (5.1.0)/charset_normalizer (2.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({})/charset_normalizer ({}) doesn't match a supported "
+/Users/jonah/Documents/miniconda/lib/python3.9/site-packages/requests/__init__.py:102: RequestsDependencyWarning: urllib3 (1.26.9) or chardet (5.1.0)/charset_normalizer (2.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({})/charset_normalizer ({}) doesn't match a supported "
+/Users/jonah/Documents/miniconda/lib/python3.9/site-packages/requests/__init__.py:102: RequestsDependencyWarning: urllib3 (1.26.9) or chardet (5.1.0)/charset_normalizer (2.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({})/charset_normalizer ({}) doesn't match a supported "
+/Users/jonah/Documents/miniconda/lib/python3.9/site-packages/requests/__init__.py:102: RequestsDependencyWarning: urllib3 (1.26.9) or chardet (5.1.0)/charset_normalizer (2.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({})/charset_normalizer ({}) doesn't match a supported "
+/Users/jonah/Documents/miniconda/lib/python3.9/site-packages/requests/__init__.py:102: RequestsDependencyWarning: urllib3 (1.26.9) or chardet (5.1.0)/charset_normalizer (2.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({})/charset_normalizer ({}) doesn't match a supported "
+/Users/jonah/Documents/miniconda/lib/python3.9/site-packages/requests/__init__.py:102: RequestsDependencyWarning: urllib3 (1.26.9) or chardet (5.1.0)/charset_normalizer (2.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({})/charset_normalizer ({}) doesn't match a supported "
+/Users/jonah/Documents/miniconda/lib/python3.9/site-packages/requests/__init__.py:102: RequestsDependencyWarning: urllib3 (1.26.9) or chardet (5.1.0)/charset_normalizer (2.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({})/charset_normalizer ({}) doesn't match a supported "
+/Users/jonah/Documents/miniconda/lib/python3.9/site-packages/requests/__init__.py:102: RequestsDependencyWarning: urllib3 (1.26.9) or chardet (5.1.0)/charset_normalizer (2.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({})/charset_normalizer ({}) doesn't match a supported "
+MIDI-Unprocessed_Recital5-7_MID--AUDIO_06_R1_2018_wav--3.midi
+MIDI-Unprocessed_Recital16_MID--AUDIO_16_R1_2018_wav--3.midi
+MIDI-Unprocessed_Schubert10-12_MID--AUDIO_20_R2_2018_wav.midi
+MIDI-Unprocessed_Recital13-15_MID--AUDIO_15_R1_2018_wav--4.midi
+MIDI-Unprocessed_Recital1-3_MID--AUDIO_01_R1_2018_wav--3.midi
+MIDI-Unprocessed_Schubert4-6_MID--AUDIO_10_R2_2018_wav.midi
+MIDI-Unprocessed_Recital5-7_MID--AUDIO_05_R1_2018_wav--3.midi
+MIDI-Unprocessed_Recital5-7_MID--AUDIO_07_R1_2018_wav--3.midi
+MIDI-Unprocessed_Recital5-7_MID--AUDIO_05_R1_2018_wav--2.midi
+MIDI-Unprocessed_Recital1-3_MID--AUDIO_02_R1_2018_wav--2.midi
+MIDI-Unprocessed_Recital17-19_MID--AUDIO_17_R1_2018_wav--1.midi
+MIDI-Unprocessed_Recital9-11_MID--AUDIO_09_R1_2018_wav--4.midi
+MIDI-Unprocessed_Recital12_MID--AUDIO_12_R1_2018_wav--1.midi
+MIDI-Unprocessed_Recital4_MID--AUDIO_04_R1_2018_wav--1.midi
+MIDI-Unprocessed_Recital16_MID--AUDIO_16_R1_2018_wav--2.midi
+MIDI-Unprocessed_Schubert7-9_MID--AUDIO_16_R2_2018_wav.midi
+MIDI-Unprocessed_Recital1-3_MID--AUDIO_01_R1_2018_wav--2.midi
+MIDI-Unprocessed_Schubert1-3_MID--AUDIO_05_R2_2018_wav.midi
+MIDI-Unprocessed_Recital8_MID--AUDIO_08_R1_2018_wav--1.midi
+MIDI-Unprocessed_Recital1-3_MID--AUDIO_02_R1_2018_wav--3.midi
+MIDI-Unprocessed_Chamber3_MID--AUDIO_10_R3_2018_wav--2.midi
+MIDI-Unprocessed_Recital5-7_MID--AUDIO_07_R1_2018_wav--2.midi
+MIDI-Unprocessed_Recital13-15_MID--AUDIO_14_R1_2018_wav--4.midi
+MIDI-Unprocessed_Recital9-11_MID--AUDIO_10_R1_2018_wav--5.midi
+MIDI-Unprocessed_Recital1-3_MID--AUDIO_03_R1_2018_wav--2.midi
+MIDI-Unprocessed_Recital5-7_MID--AUDIO_06_R1_2018_wav--2.midi
+MIDI-Unprocessed_Recital9-11_MID--AUDIO_09_R1_2018_wav--5.midi
+MIDI-Unprocessed_Recital13-15_MID--AUDIO_13_R1_2018_wav--3.midi
+MIDI-Unprocessed_Recital9-11_MID--AUDIO_11_R1_2018_wav--5.midi
+MIDI-Unprocessed_Chamber6_MID--AUDIO_20_R3_2018_wav--2.midi
+MIDI-Unprocessed_Recital9-11_MID--AUDIO_10_R1_2018_wav--2.midi
+MIDI-Unprocessed_Recital9-11_MID--AUDIO_09_R1_2018_wav--2.midi
+MIDI-Unprocessed_Recital9-11_MID--AUDIO_11_R1_2018_wav--2.midi
+MIDI-Unprocessed_Recital13-15_MID--AUDIO_15_R1_2018_wav--2.midi
+MIDI-Unprocessed_Recital17-19_MID--AUDIO_19_R1_2018_wav--6.midi
+MIDI-Unprocessed_Recital17-19_MID--AUDIO_18_R1_2018_wav--1.midi
+MIDI-Unprocessed_Recital1-3_MID--AUDIO_03_R1_2018_wav--5.midi
+MIDI-Unprocessed_Recital13-15_MID--AUDIO_14_R1_2018_wav--2.midi
+MIDI-Unprocessed_Recital17-19_MID--AUDIO_19_R1_2018_wav--1.midi
+MIDI-Unprocessed_Recital1-3_MID--AUDIO_02_R1_2018_wav--4.midi
+273346 training sequences, 30388 validation sequences
+Metal device set to: Apple M1
+
+systemMemory: 16.00 GB
+maxCacheSize: 5.33 GB
+
+2023-04-04 20:21:12.007661: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:306] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+2023-04-04 20:21:12.007766: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:272] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)
+/Users/jonah/Documents/miniconda/lib/python3.9/site-packages/keras/initializers/initializers_v2.py:120: UserWarning: The initializer RandomNormal is unseeded and being called multiple times, which will return identical values  each time (even if the initializer is unseeded). Please update your code to provide a seed to the initializer, or avoid using the same initalizer instance more than once.
+  warnings.warn(
+Model: "sequential"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ lstm (LSTM)                 (None, 80, 128)           90624     
+                                                                 
+ dropout (Dropout)           (None, 80, 128)           0         
+                                                                 
+ lstm_1 (LSTM)               (None, 80, 64)            49408     
+                                                                 
+ dropout_1 (Dropout)         (None, 80, 64)            0         
+                                                                 
+ lstm_2 (LSTM)               (None, 32)                12416     
+                                                                 
+ dropout_2 (Dropout)         (None, 32)                0         
+                                                                 
+ dense (Dense)               (None, 48)                1584      
+                                                                 
+=================================================================
+Total params: 154,032
+Trainable params: 154,032
+Non-trainable params: 0
+_________________________________________________________________
+2023-04-04 20:21:19.881048: W tensorflow/core/platform/profile_utils/cpu_utils.cc:128] Failed to get CPU frequency: 0 Hz
+Epoch 1/25
+/Users/jonah/Documents/miniconda/lib/python3.9/site-packages/keras/backend.py:5673: UserWarning: "`binary_crossentropy` received `from_logits=True`, but the `output` argument was produced by a Sigmoid activation and thus does not represent logits. Was this intended?
+  output, from_logits = _get_logits(
+2023-04-04 20:21:22.063994: I tensorflow/core/grappler/optimizers/custom_graph_optimizer_registry.cc:114] Plugin optimizer for device_type GPU is enabled.
+2023-04-04 20:21:22.279129: I tensorflow/core/grappler/optimizers/custom_graph_optimizer_registry.cc:114] Plugin optimizer for device_type GPU is enabled.
+2023-04-04 20:21:22.461330: I tensorflow/core/grappler/optimizers/custom_graph_optimizer_registry.cc:114] Plugin optimizer for device_type GPU is enabled.
+2023-04-04 20:21:22.590888: I tensorflow/core/grappler/optimizers/custom_graph_optimizer_registry.cc:114] Plugin optimizer for device_type GPU is enabled.
+2023-04-04 20:21:22.835533: I tensorflow/core/grappler/optimizers/custom_graph_optimizer_registry.cc:114] Plugin optimizer for device_type GPU is enabled.
+2023-04-04 20:21:23.130438: I tensorflow/core/grappler/optimizers/custom_graph_optimizer_registry.cc:114] Plugin optimizer for device_type GPU is enabled.
+2023-04-04 20:21:23.368571: I tensorflow/core/grappler/optimizers/custom_graph_optimizer_registry.cc:114] Plugin optimizer for device_type GPU is enabled.
+8543/8543 [==============================] - ETA: 0s - loss: 0.2770 - binary_accuracy: 0.91192023-04-04 20:29:58.846921: I tensorflow/core/grappler/optimizers/custom_graph_optimizer_registry.cc:114] Plugin optimizer for device_type GPU is enabled.
+2023-04-04 20:29:58.936321: I tensorflow/core/grappler/optimizers/custom_graph_optimizer_registry.cc:114] Plugin optimizer for device_type GPU is enabled.
+2023-04-04 20:29:59.074835: I tensorflow/core/grappler/optimizers/custom_graph_optimizer_registry.cc:114] Plugin optimizer for device_type GPU is enabled.
+2023-04-04 20:29:59.205203: I tensorflow/core/grappler/optimizers/custom_graph_optimizer_registry.cc:114] Plugin optimizer for device_type GPU is enabled.
+8543/8543 [==============================] - 553s 64ms/step - loss: 0.2770 - binary_accuracy: 0.9119 - val_loss: 1.1366 - val_binary_accuracy: 0.5219
+Epoch 2/25
+8543/8543 [==============================] - 573s 67ms/step - loss: 0.2487 - binary_accuracy: 0.9207 - val_loss: 1.1163 - val_binary_accuracy: 0.5291
+Epoch 3/25
+8543/8543 [==============================] - 516s 60ms/step - loss: 0.2470 - binary_accuracy: 0.9207 - val_loss: 1.1075 - val_binary_accuracy: 0.5320
+Epoch 4/25
+8543/8543 [==============================] - 575s 67ms/step - loss: 0.2463 - binary_accuracy: 0.9208 - val_loss: 1.1042 - val_binary_accuracy: 0.5330
+Epoch 5/25
+8543/8543 [==============================] - 591s 69ms/step - loss: 0.2460 - binary_accuracy: 0.9208 - val_loss: 1.1045 - val_binary_accuracy: 0.5328
+Epoch 6/25
+8543/8543 [==============================] - 520s 61ms/step - loss: 0.2458 - binary_accuracy: 0.9208 - val_loss: 1.1049 - val_binary_accuracy: 0.5328
+Epoch 7/25
+8543/8543 [==============================] - 472s 55ms/step - loss: 0.2457 - binary_accuracy: 0.9208 - val_loss: 1.1064 - val_binary_accuracy: 0.5323
+Epoch 8/25
+8543/8543 [==============================] - 474s 55ms/step - loss: 0.2456 - binary_accuracy: 0.9208 - val_loss: 1.1091 - val_binary_accuracy: 0.5320
+Epoch 9/25
+8543/8543 [==============================] - 521s 61ms/step - loss: 0.2456 - binary_accuracy: 0.9207 - val_loss: 1.1125 - val_binary_accuracy: 0.5312
+Epoch 10/25
+8543/8543 [==============================] - 480s 56ms/step - loss: 0.2455 - binary_accuracy: 0.9208 - val_loss: 1.1148 - val_binary_accuracy: 0.5310
+Epoch 11/25
+8543/8543 [==============================] - 479s 56ms/step - loss: 0.2455 - binary_accuracy: 0.9208 - val_loss: 1.1163 - val_binary_accuracy: 0.5309
+Epoch 12/25
+8543/8543 [==============================] - 518s 61ms/step - loss: 0.2455 - binary_accuracy: 0.9208 - val_loss: 1.1200 - val_binary_accuracy: 0.5300
+Epoch 13/25
+8543/8543 [==============================] - 504s 59ms/step - loss: 0.2454 - binary_accuracy: 0.9208 - val_loss: 1.1213 - val_binary_accuracy: 0.5298
+Epoch 14/25
+8543/8543 [==============================] - 511s 60ms/step - loss: 0.2454 - binary_accuracy: 0.9208 - val_loss: 1.1230 - val_binary_accuracy: 0.5299
+Epoch 15/25
+8543/8543 [==============================] - 546s 64ms/step - loss: 0.2454 - binary_accuracy: 0.9207 - val_loss: 1.1241 - val_binary_accuracy: 0.5296
+Epoch 16/25
+8543/8543 [==============================] - 472s 55ms/step - loss: 0.2454 - binary_accuracy: 0.9208 - val_loss: 1.1296 - val_binary_accuracy: 0.5281
+Epoch 17/25
+8543/8543 [==============================] - 478s 56ms/step - loss: 0.2454 - binary_accuracy: 0.9208 - val_loss: 1.1311 - val_binary_accuracy: 0.5281
+Epoch 18/25
+8543/8543 [==============================] - 474s 56ms/step - loss: 0.2453 - binary_accuracy: 0.9208 - val_loss: 1.1361 - val_binary_accuracy: 0.5272
+Epoch 19/25
+8543/8543 [==============================] - 490s 57ms/step - loss: 0.2453 - binary_accuracy: 0.9208 - val_loss: 1.1418 - val_binary_accuracy: 0.5257
+Epoch 20/25
+8543/8543 [==============================] - 464s 54ms/step - loss: 0.2453 - binary_accuracy: 0.9208 - val_loss: 1.1491 - val_binary_accuracy: 0.5244
+Epoch 21/25
+8543/8543 [==============================] - 466s 55ms/step - loss: 0.2453 - binary_accuracy: 0.9208 - val_loss: 1.1515 - val_binary_accuracy: 0.5239
+Epoch 22/25
+8543/8543 [==============================] - 468s 55ms/step - loss: 0.2453 - binary_accuracy: 0.9208 - val_loss: 1.1582 - val_binary_accuracy: 0.5230
+Epoch 23/25
+8543/8543 [==============================] - 489s 57ms/step - loss: 0.2453 - binary_accuracy: 0.9208 - val_loss: 1.1619 - val_binary_accuracy: 0.5223
+Epoch 24/25
+8543/8543 [==============================] - 497s 58ms/step - loss: 0.2453 - binary_accuracy: 0.9208 - val_loss: 1.1669 - val_binary_accuracy: 0.5211
+Epoch 25/25
+8543/8543 [==============================] - 506s 59ms/step - loss: 0.2453 - binary_accuracy: 0.9207 - val_loss: 1.1704 - val_binary_accuracy: 0.5207
+WARNING:absl:Found untraced functions such as lstm_cell_layer_call_fn, lstm_cell_layer_call_and_return_conditional_losses, lstm_cell_1_layer_call_fn, lstm_cell_1_layer_call_and_return_conditional_losses, lstm_cell_2_layer_call_fn while saving (showing 5 of 6). These functions will not be directly callable after loading.
